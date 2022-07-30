@@ -1,4 +1,4 @@
-### Hi there I'm Lucas👋
+### Hi there, I'm Lucas👋
 
 <!--
 **LukBlan/LukBlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
