@@ -5,4 +5,4 @@
 -->
 
 - :book: I’m studying Information Systems Engineering.
-- 🌱 I’m currently learning Python from: CS50's Introduction to Programming with Python
+- :pencil2: I’m currently learning Python from: CS50's Introduction to Programming with Python
