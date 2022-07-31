@@ -6,7 +6,7 @@
 
 - :book: I'm studying Information Systems Engineering.
 - :pencil2: I'm currently learning Python from [CS50's Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python).
-- :punch: I'm interested in learning everything I can and more.
+- :punch: I want to learn everything I can and more.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukBlan&count_private=true&theme=solarized-light)
