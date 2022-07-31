@@ -10,4 +10,4 @@
 
 ## :chart: GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukBlan&count_private=true&theme=solarized-light)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukBlan&layout=compact&count_private=true&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukBlan&layout=compact&count_private=true&theme=solarized-light)
