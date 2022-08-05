@@ -5,7 +5,7 @@
 -->
 
 - :book: I'm studying Information Systems Engineering.
-- :pencil2: I'm currently doing [CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) and [App Academy Open](https://www.appacademy.io/course/app-academy-open).
+- :pencil2: I'm currently doing [CS50P](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) and [The Odin Proyect: Fundations](https://www.theodinproject.com/paths).
 - :punch: I want to learn everything I can and more.
 
 ## :chart: GitHub Stats:
