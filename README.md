@@ -7,6 +7,7 @@
 - :book: I'm studying Information Systems Engineering.
 - :pencil2: I'm currently doing  [The Odin Project: Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript).
 - :punch: I want to learn everything I can and more.
+- :file_folder: Currently my best project is [Calculator](https://github.com/LukBlan/calculator)
 
 ## :chart: GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukBlan&count_private=true&theme=solarized-light)
