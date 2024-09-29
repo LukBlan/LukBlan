@@ -1,15 +1,10 @@
-# Hi there 👋, I am Lucas
+# Hi there 👋, I'm Lucas
 
-<!--
-**LukBlan/LukBlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm developer that love programming and make jokes, currently i'm interested in
 
-- :book: I'm studying Information Systems Engineering.
-- :file_folder: Some projects that i really like 
-[Tekken Tic Tac Toe](https://lukblan.github.io/tic-tac-toe/),
-[Todo List](https://lukblan.github.io/todo-list), 
-[Library](https://lukblan.github.io/library/)
-- :punch: I want to learn everything I can and more.
+- Game Development
+- Fullstack Development
+- Mobile Development
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,html,css)](https://skillicons.dev)
