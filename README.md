@@ -17,7 +17,7 @@ I'm developer that love programming and make jokes
 ## Stats
 <!--START_SECTION:waka-->
 
-```ruby
+```txt
 From: 22 December 2023 - To: 29 September 2024
 
 Total Time: 917 hrs 49 mins
