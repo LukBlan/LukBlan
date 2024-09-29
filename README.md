@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lucas
 
-I'm developer that love programming and make jokes
+I'm a developer that love programming and make jokes
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,html,css)](https://skillicons.dev)
