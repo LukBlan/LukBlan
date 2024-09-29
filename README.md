@@ -1,10 +1,6 @@
 # Hi there 👋, I'm Lucas
 
-I'm developer that love programming and make jokes, currently i'm interested in
-
-- Game Development
-- Fullstack Development
-- Mobile Development
+I'm developer that love programming and make jokes
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,html,css)](https://skillicons.dev)
