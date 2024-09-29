@@ -11,8 +11,19 @@
 [Library](https://lukblan.github.io/library/)
 - :punch: I want to learn everything I can and more.
 
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=py,ruby,js,ts,html,css)](https://skillicons.dev)
 
-## Wakatime
+## Frameworks / Libraries
+[![My Skills](https://skillicons.dev/icons?i=django,rails,react,nextjs,tailwind)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+## Others
+[![My Skills](https://skillicons.dev/icons?i=docker,git,postman)](https://skillicons.dev)
+
+## Stats
 <!--START_SECTION:waka-->
 
 ```ruby
