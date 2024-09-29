@@ -20,6 +20,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           TIME_RANGE: all_time # optional
+          CODE_LANG: ruby # optional
           LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
