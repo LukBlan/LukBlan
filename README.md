@@ -10,3 +10,6 @@
 [Todo List](https://lukblan.github.io/todo-list), 
 [Library](https://lukblan.github.io/library/)
 - :punch: I want to learn everything I can and more.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
