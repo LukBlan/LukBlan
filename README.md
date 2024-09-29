@@ -21,6 +21,10 @@ From: 22 December 2023 - To: 29 September 2024
 Total Time: 917 hrs 49 mins
 
 JavaScript                    319 hrs 44 mins ████████▓░░░░░░░░░░░░░░░░   34.81 %
+Ruby                          198 hrs 4 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.57 %
+CSS                           94 hrs 47 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
+Python                        90 hrs 57 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+TypeScript                    55 hrs 55 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
