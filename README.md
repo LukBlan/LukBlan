@@ -1,4 +1,4 @@
-## Hi there 👋, I am Lucas
+# Hi there 👋, I am Lucas
 
 <!--
 **LukBlan/LukBlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,5 +11,7 @@
 [Library](https://lukblan.github.io/library/)
 - :punch: I want to learn everything I can and more.
 
+
+## Wakatime
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
