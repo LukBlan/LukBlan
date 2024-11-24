@@ -18,15 +18,15 @@ I'm a developer that love programming and make jokes
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 22 December 2023 - To: 17 November 2024
+From: 22 December 2023 - To: 24 November 2024
 
-Total Time: 1,091 hrs 36 mins
+Total Time: 1,105 hrs 56 mins
 
-JavaScript                    321 hrs 58 mins ███████▒░░░░░░░░░░░░░░░░░   29.48 %
-Ruby                          218 hrs 49 mins █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-Python                        201 hrs 50 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-CSS                           96 hrs 1 min    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
-TypeScript                    66 hrs 6 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+JavaScript                    322 hrs 53 mins ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+Ruby                          218 hrs 49 mins █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+Python                        212 hrs 28 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
+CSS                           96 hrs 1 min    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+TypeScript                    66 hrs 6 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
